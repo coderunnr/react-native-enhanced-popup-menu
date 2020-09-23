@@ -309,7 +309,7 @@ export class Menu extends React.Component<Props, State> {
 
   hide = () => {
     const { animation } = this.state;
-    this.props.onDismiss();
+    this.props.onHidden();
     Animated.timing(this.state.animation.opacity, {
       toValue: 0,
       duration: ANIMATION_DURATION,
