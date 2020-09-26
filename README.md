@@ -1,7 +1,5 @@
 # react-native-enhanced-popup-menu &middot; [![npm](https://img.shields.io/npm/v/react-native-enhanced-popup-menu.svg)](https://www.npmjs.com/package/react-native-enhanced-popup-menu) [![license](https://img.shields.io/npm/l/react-native-enhanced-popup-menu.svg)](https://github.com/likern/react-native-enhanced-popup-menu/blob/master/LICENSE)
 
-> **Note:** active development was moved to [breeffy/react-native-popup-menu](https://github.com/breeffy/react-native-popup-menu)
-
 ## Features
 
 | Positioning                | Description                                                                                                 |
@@ -10,8 +8,6 @@
 | stick to center of element | Allows to show menu by the center of element's width                                                        |
 | dynamic positioning        | Allows to add dynamic offsets to base menu position                                                         |
 | position constraints       | Automatically applies constraints to never allow to go beyond screen borders. You always will see full menu |
-| **typescript support**     | TypeScript is a first-class citizen and works out-of-the box |
-
 
 | Animations            | Description                                                                                        |
 | :-------------------- | :------------------------------------------------------------------------------------------------- |
